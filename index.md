@@ -178,7 +178,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
-<p><strong>Registration:</p> Please complete the registration form to secure a place in the workshop. <a href="https://goo.gl/forms/N0qKr0KwVKjwMJsh2">https://goo.gl/forms/N0qKr0KwVKjwMJsh2</a>
+<p><strong>Registration:</strong> Please complete the registration form to secure a place in the workshop. <a href="https://goo.gl/forms/N0qKr0KwVKjwMJsh2">https://goo.gl/forms/N0qKr0KwVKjwMJsh2</a>
   </p>
 
 <hr/>
